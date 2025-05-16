@@ -1,0 +1,20 @@
+form {
+    display:flex;
+    flex-direction: column;
+    width: 40vw;
+    height: 45vh;
+    resize: none;
+    position: absolute;
+    font-size: .75em;
+    /* justify-content: center;
+    align-items: center; */
+    gap: 6px;
+    padding: 20px;
+    bottom: 10px;
+    right: 350px;
+    border: 1px solid black;
+    /* display: none; */
+        h2 {
+            font-size: 1em;
+        }
+}

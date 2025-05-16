@@ -1,0 +1,20 @@
+
+
+article > * {
+    border: 1px solid black;
+    width: 80vw;
+   
+}
+
+ol {
+    display: grid;
+    grid-template-rows: repeat(20, 1fr);
+    border: 1px solid black;
+    gap: 3px;
+    padding: 4px;
+}
+
+ol > * {
+    border: 1px solid black;
+}
+
